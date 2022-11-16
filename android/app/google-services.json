@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "911994996001",
+    "project_id": "hotelq-app",
+    "storage_bucket": "hotelq-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911994996001:android:4d226ecb0cd18e41502a60",
+        "android_client_info": {
+          "package_name": "com.example.tsa_eventq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911994996001-sk40hcei91b8s05013be19bjt552n1jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIKKALXEDMTm9DsoEAtJ1aJThQB9KErRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911994996001-sk40hcei91b8s05013be19bjt552n1jm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "911994996001-k0fenor8kdd8ollskk21qhflhp0vto5j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hotelsApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911994996001:android:3c31c616bbad1b7f502a60",
+        "android_client_info": {
+          "package_name": "com.ferdyfebriyanto.hotelq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911994996001-sk40hcei91b8s05013be19bjt552n1jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIKKALXEDMTm9DsoEAtJ1aJThQB9KErRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911994996001-sk40hcei91b8s05013be19bjt552n1jm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "911994996001-k0fenor8kdd8ollskk21qhflhp0vto5j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hotelsApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
