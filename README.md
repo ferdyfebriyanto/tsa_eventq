@@ -1,16 +1,23 @@
-# tsa_eventq
+# Event Ticketing System
 
-A new Flutter project.
+Sebuah aplikasi pemesanan dan pembelian tiket event secara online berbasis mobile. Database yang digunakan Firebase. Versi Flutter 3.3.8.
 
-## Getting Started
+## Roles
 
-This project is a starting point for a Flutter application.
+* Peserta
 
-A few resources to get you started if this is your first Flutter project:
+## Fitur
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Fitur Autentikasi
+* Fitur Pencarian
+* Fitur Pemesanan
+* Fitur Pembelian
+* Fitur History
+* Fitur QR Code
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Dokumentasi 
+
+https://user-images.githubusercontent.com/47923906/202102792-72433fdb-d953-4fe9-bdf6-2719bcc59c6b.mp4
+
+
+
